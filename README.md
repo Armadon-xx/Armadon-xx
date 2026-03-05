@@ -1,17 +1,18 @@
 <h1 align="left">Hi there, I'm Armadon 👋</h1>
 <p align="left"><strong>Developer</strong></p>
+<p align="left">Backend developer specializing in game server infrastructure (CS2), custom Discord bots, and automation.</p>
 
 <br>
 
 <div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">🚀 Geliştirdiğim Projelerim</h2>
+  <h2 class="heading-element" dir="auto">🚀 Projects</h2>
 </div>
 
 <table>
   <thead>
     <tr>
-      <th align="left">Proje</th>
-      <th align="left">Bağlantı</th>
+      <th align="left">Project</th>
+      <th align="left">Link</th>
     </tr>
   </thead>
   <tbody>
@@ -42,14 +43,14 @@
 <br>
 
 <div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">📫 Ulaşabileceğiniz Yerler</h2>
+  <h2 class="heading-element" dir="auto">📫 How to Reach Me</h2>
 </div>
 
 <p align="left">
   <a href="https://discord.com/users/898566494961668148" rel="nofollow">
-    <img src="https://img.shields.io/badge/Discord_Hesabım-7289DA?style=flat-square&logo=discord&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/My_Discord-7289DA?style=flat-square&logo=discord&logoColor=white" height="28">
   </a>
   <a href="https://discord.gg/armadon" rel="nofollow">
-    <img src="https://img.shields.io/badge/Discord_Sunucum-5865F2?style=flat-square&logo=discord&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=flat-square&logo=discord&logoColor=white" height="28">
   </a>
 </p>
