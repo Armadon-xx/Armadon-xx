@@ -1,16 +1,28 @@
-## Hi there 👋
+# Armadon
 
-<!--
-**Armadon-xx/Armadon-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on automation and game server infrastructure.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* JavaScript
+* C#
+* Linux
+* Docker
+
+## What I build
+
+* Discord bots
+* Automation scripts
+* CS2 / game server tools
+* Server management utilities
+
+## Current focus
+
+Working on tools for game servers and automation systems.
+
+## Links
+
+GitHub: https://github.com/Armadon-xx
+Discord: https://discord.gg/armadon
+Web: https://armadon.shop
