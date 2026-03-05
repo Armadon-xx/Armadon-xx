@@ -3,13 +3,13 @@
 <table>
   <thead>
     <tr>
-      <th align="left">🔴 🟡 🟢 <code>Terminal</code></th>
+      <th align="left">🔴 🟡 🟢</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&duration=3000&pause=1000&color=3FB950&width=450&lines=>_+Initializing+workspace...;>_+Loading+game+server+infrastructure...;>_+Starting+Discord+bots...;>_+System+ready." alt="Terminal" />
+        <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=15&duration=3000&pause=1000&color=3FB950&width=450&lines=>_+Loading+game+server+infrastructure...;>_+Starting+Discord+bots...;>_+System+ready." alt="Terminal" />
       </td>
     </tr>
   </tbody>
