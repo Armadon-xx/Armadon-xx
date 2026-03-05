@@ -1,6 +1,16 @@
 <h1 align="left">Hi there, I'm Armadon 👋</h1>
+
+<blockquote>
+  🔴 🟡 🟢<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=14&duration=3000&pause=1000&color=3FB950&width=450&lines=>_+Initializing+workspace...;>_+Loading+game+server+infrastructure...;>_+Starting+Discord+bots...;>_+System+ready." alt="Terminal" />
+</blockquote>
+
 <p align="left"><strong>Developer</strong></p>
-<p align="left">Backend developer specializing in game server infrastructure (CS2), custom Discord bots, and automation.</p>
+<p align="left">
+  🎮 <strong>Game Server Infrastructure Development</strong><br>
+  <img src="https://cdn.simpleicons.org/discord/7289DA" width="16" style="vertical-align: middle; margin-bottom: -2px;" /> <strong>Discord Bot Development</strong><br>
+  ⚙️ <strong>Server Management Tools</strong>
+</p>
 
 <br>
 
@@ -26,12 +36,15 @@
 <br>
 
 <div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">💻 Languages & Tools</h2>
+  <h2 class="heading-element" dir="auto">💻 Languages</h2>
 </div>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/CounterStrikeSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white" alt="CounterStrikeSharp" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /><br>
+  &nbsp;&nbsp;&nbsp;└── <img src="https://img.shields.io/badge/CounterStrikeSharp-1572B6?style=flat-square&logo=c-sharp&logoColor=white" alt="CounterStrikeSharp" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
