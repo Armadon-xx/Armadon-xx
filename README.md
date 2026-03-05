@@ -1,18 +1,14 @@
 <h1 align="center">Hi there, I'm Armadon 👋</h1>
-<h3 align="center">Backend Developer | Game Server Infrastructure | Automation</h3>
-
-<p align="center">
-  I specialize in backend automation, creating robust Discord bots, and building high-performance infrastructure for game servers, particularly <b>Counter-Strike 2 (CounterStrikeSharp)</b> and Minecraft.
-</p>
+<h3 align="center">Backend Developer & Game Server Infrastructure</h3>
 
 ---
 
 ### 🛠️ What I Build
 
-* 🎮 **Game Server Tools:** CS2 plugins, custom server management utilities, and game infrastructure.
-* 🤖 **Discord Bots:** Advanced automation bots and server integrations using Python.
-* ⚙️ **Automation Scripts:** Tools to streamline backend processes and server operations.
-* 🛒 **Web Projects:** Operating [Armadon.Shop](https://armadon.shop) and building web-based tools.
+* 🌐 **[Armadon.Shop](https://armadon.shop):** My main web platform where I provide custom game server plugins.
+* 🎮 **Game Server Plugins:** Developing custom systems for CS2 and Minecraft.
+* 🤖 **Discord Bots:** Custom bots for server management and roleplay communities.
+* ⚙️ **Game Server Tools:** Backend infrastructure and management utilities.
 
 ---
 
@@ -25,12 +21,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-### 🎯 Current Focus
-
-Developing advanced tools for game servers, custom automation systems, and building out backend solutions for gaming communities.
 
 ---
 
