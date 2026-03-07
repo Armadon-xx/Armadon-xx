@@ -38,15 +38,15 @@
   <tbody>
     <tr>
       <td align="left">🌐 <strong>Armadon.Shop</strong></td>
-      <td align="left"><a href="https://armadon.shop">https://armadon.shop</a></td>
+      <td align="left"><a href="https://armadon.shop" style="text-decoration: none;">https://armadon.shop</a></td>
     </tr>
     <tr>
-      <td align="left">🌐 <strong>Armadon.xyz</strong></td>
-      <td align="left"><a href="https://armadon.xyz">https://armadon.xyz</a></td>
+      <td align="left">🌐 <strong>Armadon.Xyz</strong></td>
+      <td align="left"><a href="https://armadon.xyz" style="text-decoration: none;">https://armadon.xyz</a></td>
     </tr>
     <tr>
-      <td align="left">🌐 <strong>cs2sunuculari.com</strong></td>
-      <td align="left"><a href="https://cs2sunuculari.com">https://cs2sunuculari.com</a></td>
+      <td align="left">🌐 <strong>CS2 SunucularI.com</strong></td>
+      <td align="left"><a href="https://cs2sunuculari.com" style="text-decoration: none;">https://cs2sunuculari.com</a></td>
     </tr>
   </tbody>
 </table>
